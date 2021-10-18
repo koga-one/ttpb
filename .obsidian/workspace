@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "29abd941be1148ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a1336c8c01a8fb",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ac7a07291848c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "77682e6f90822913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9d63c3c911d913",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0b5893243fa7b2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "110ee3826be1a6c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "194f866f4c424f34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62e4c2397fae1d40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9a1336c8c01a8fb",
+  "lastOpenFiles": [
+    "personal/ah, im feeling like that again.md",
+    "characters/Hiro.md",
+    "Untitled.md"
+  ]
+}
