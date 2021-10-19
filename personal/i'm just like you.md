@@ -1,4 +1,4 @@
-#PERSONAL #sad
+#sad
 
 not even during moments like these
 when i suffer just like you

@@ -1,4 +1,4 @@
-#PERSONAL #sad
+#sad
 
 i can't turn off my brain
 for some reason, nothing's good enough today

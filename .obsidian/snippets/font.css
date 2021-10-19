@@ -1,0 +1,11 @@
+:root {
+    --default-font: 'Atkinson Hyperlegible', sans-serif !important;
+}
+
+.markdown-source-view {
+    font-family: 'Fira Code', monospace !important;
+}
+  
+.markdown-preview-view {
+    font-family: 'Atkinson Hyperlegible', sans-serif !important;
+}

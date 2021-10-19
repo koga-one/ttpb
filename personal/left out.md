@@ -1,4 +1,4 @@
-#PERSONAL #sad #fomo
+#sad #fear
 
 why do i always bring people together, just for me to slowly drift away from them?
 
@@ -21,4 +21,4 @@ why do i even try? why do i even care? [[where's my reward]]?
 
 [[i'm just like you]]
 
-![[IMG-20211017-WA0001.jpg]]
+![[hands.jpg]]
